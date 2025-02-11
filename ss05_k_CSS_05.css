@@ -1,0 +1,59 @@
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+  }
+  
+  
+  #title {
+    font-size: 2em;
+    color: rgb(20, 138, 138);
+    margin-bottom: 15px;
+  }
+  
+  
+  #paragraph {
+    font-weight: bold;
+  }
+  
+  .container {
+    height: 220px;
+    width: 100%;
+    background-color: antiquewhite;
+    border-left: 10px solid rgb(222, 161, 41);
+    padding-left: 10px;
+    padding-top: 20px;
+  }
+  
+ 
+  #title {
+    font-size: 1.5em;
+    color: rgb(20, 138, 138);
+    margin-bottom: 10px;
+  }
+  
+  
+  .container p {
+    font-weight: 500;
+    margin-bottom: 15px;
+  }
+  
+ 
+  .container-1 {
+    height: 100%;
+    width: 20px;
+    background-color: orange;
+  }
+  
+  .container-2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+  }
+  
+  
+  .text {
+    margin-top: 20px;
+    font-weight: 500;
+  }
+  

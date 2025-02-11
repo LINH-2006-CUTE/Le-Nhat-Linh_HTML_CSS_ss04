@@ -1,0 +1,82 @@
+/* Cấu hình cơ bản cho body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Định dạng cho container */
+  .container {
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+
+ .container caption {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+
+  .container thead {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .container th {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+  }
+  
+  .container tbody tr {
+    background-color: #fff;
+  }
+  
+  .container tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .container tbody td {
+    padding: 10px;
+    text-align: left;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+  }
+  
+ 
+  tbody tr:hover {
+    background-color: #e0e0e0;
+  }
+  
+  
+  th, td {
+    border: 1px solid #ddd;
+  }
+  
+ 
+  #table1 {
+    background-color: #e0f7fa;  
+  
+  #table2 {
+    background-color: #ffecb3; 
+  }
+  
+  #table3 {
+    background-color: #d1c4e9;  
+  }
+  
+  
