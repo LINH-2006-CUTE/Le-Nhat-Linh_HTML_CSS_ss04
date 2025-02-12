@@ -1,0 +1,52 @@
+.head {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-bottom: 2px dotted gray;
+}
+
+.container {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    height: 100px;
+    width: 130px;
+    border-radius: 7px;
+}
+
+.container-1 {
+    width: 50%;
+}
+
+.container-2 {
+    width: 50%;
+}
+
+.item {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.container-2 .item {
+    border-left: 2px solid rgb(202, 202, 202);
+}
+
+.item-img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.content {
+    margin-left: 10px;
+}
+
+.paragraph-1 {
+    color: rgb(141, 141, 141);
+}
+
+.paragraph-2 {
+    font-weight: 700;
+}
